@@ -1,0 +1,122 @@
+{
+  "books": [
+    {
+      "bookId": 1,
+      "bookName": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "image": "https://i.ibb.co/hVMH4jk/1.jpg",
+      "review": "A timeless classic portraying the decadence and disillusionment of the American Dream.",
+      "totalPages": 180,
+      "rating": 4.5,
+      "category": "Fiction",
+      "tags": ["Classic", "Romance", "Tragedy"],
+      "publisher": "Scribner",
+      "yearOfPublishing": 1925
+    },
+    {
+      "bookId": 2,
+      "bookName": "1984",
+      "author": "George Orwell",
+      "image": "https://i.ibb.co/ssWPpPF/2.jpg",
+      "review": "A dystopian masterpiece that serves as a chilling warning against totalitarianism.",
+      "totalPages": 328,
+      "rating": 4.8,
+      "category": "Fiction",
+      "tags": ["Dystopian", "Political", "Classic"],
+      "publisher": "Secker & Warburg",
+      "yearOfPublishing": 1949
+    },
+    {
+      "bookId": 3,
+      "bookName": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "image": "https://i.ibb.co/92Dqq5f/3.jpg",
+      "review": "A poignant exploration of racial injustice and moral growth in the American South.",
+      "totalPages": 336,
+      "rating": 4.7,
+      "category": "Fiction",
+      "tags": ["Classic", "Coming-of-Age", "Legal Drama"],
+      "publisher": "J. B. Lippincott & Co.",
+      "yearOfPublishing": 1960
+    },
+    {
+      "bookId": 4,
+      "bookName": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "image": "https://i.ibb.co/vQyxmRr/4.jpg",
+      "review": "An iconic coming-of-age novel capturing the angst and alienation of adolescence.",
+      "totalPages": 224,
+      "rating": 4.3,
+      "category": "Fiction",
+      "tags": ["Classic", "Coming-of-Age"],
+      "publisher": "Little, Brown and Company",
+      "yearOfPublishing": 1951
+    },
+    {
+      "bookId": 5,
+      "bookName": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "image": "https://i.ibb.co/hsdL4Nc/5.jpg",
+      "review": "A witty and romantic comedy of manners, exploring love and societal expectations.",
+      "totalPages": 432,
+      "rating": 4.6,
+      "category": "Fiction",
+      "tags": ["Classic", "Romance", "Satire"],
+      "publisher": "T. Egerton, Whitehall",
+      "yearOfPublishing": 1813
+    },
+    {
+      "bookId": 6,
+      "bookName": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "image": "https://i.ibb.co/3fb56VM/66.jpg",
+      "review": "An epic fantasy tale of good versus evil set in the richly detailed world of Middle-earth.",
+      "totalPages": 1178,
+      "rating": 4.9,
+      "category": "Fiction",
+      "tags": ["Fantasy", "Adventure", "Epic"],
+      "publisher": "George Allen & Unwin",
+      "yearOfPublishing": 1954
+    },
+    {
+      "bookId": 7,
+      "bookName": "Moby-Dick",
+      "author": "Herman Melville",
+      "image": "https://i.ibb.co/wLTF2tC/a6aaa66664ccd54326cb425bbc639b3f.jpg",
+      "review": "A complex and symbolic tale of obsession, revenge, and the conflict between man and nature.",
+      "totalPages": 720,
+      "rating": 4.2,
+      "category": "Fiction",
+      "tags": ["Adventure", "Symbolism", "Whaling"],
+      "publisher": "Richard Bentley (UK) & Harper & Brothers (US)",
+      "yearOfPublishing": 1851
+    },
+    {
+      "bookId": 8,
+      "bookName": "The Picture of Dorian Gray",
+      "author": "Oscar Wilde",
+      "image": "https://i.ibb.co/FY3ksvX/51-IPe62r8g-L-AC-UF1000-1000-QL80.jpg",
+      "review": "A provocative exploration of vanity, morality, and the consequences of aestheticism.",
+      "totalPages": 254,
+      "rating": 4.1,
+      "category": "Fiction",
+      "tags": ["Gothic", "Philosophical", "Morality"],
+      "publisher": "Ward, Lock and Company",
+      "yearOfPublishing": 1890
+    },
+    {
+      "bookId": 9,
+      "bookName": "Frankenstein",
+      "author": "Mary Shelley",
+      "image": "https://i.ibb.co/LP8cwCX/2a34d8-7edc06080c344f958cde383a3fa6f3f1mv2.jpg",
+      "review": "A seminal work of science fiction exploring themes of creation, ambition, and responsibility.",
+      "totalPages": 280,
+      "rating": 4.3,
+      "category": "Fiction",
+      "tags": ["Gothic", "Science Fiction", "Horror"],
+      "publisher": "Lackington, Hughes, Harding, Mavor & Jones",
+      "yearOfPublishing": 1818
+    }
+
+  ]
+}
